@@ -17,7 +17,7 @@ Press play and watch the AI in action — no player input required.
 ## Sheep Behaviour
 - Wander
 - Flee from wolf
-- - Seek food when nearby
+- Seek food when nearby
 
 ## Built With
 - Unity
